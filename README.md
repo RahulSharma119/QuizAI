@@ -1,1 +1,1 @@
-# VirtusaQuizApp
+# QuizAI
